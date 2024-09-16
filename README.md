@@ -6,8 +6,7 @@
 Breve descrição do seu projeto
 
 ## 🤖 Tecnologias Utilizadas
-Utilizei o **ChatGPT** para auxílio na composição da narrativa do podcast; e
-Utilizei a plataforma **Descript** para composição do podcast.
+Utilizei o **ChatGPT**, para auxílio na composição da narrativa do podcast e a plataforma **Descript**, para composição do podcast.
 
 ## 🧐 Processo de Criação
 Descreva como você criou o conteúdo

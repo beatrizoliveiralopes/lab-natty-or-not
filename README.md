@@ -3,7 +3,7 @@
 # Podcast Por Dentro dos 🎲🎲
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Esse projeto trata-se de um podcast que explora o mundo da ciência de dados, oferecendo insights sobre técnicas, tendências e entrevistas com especialistas. É uma fonte acessível para entender como dados moldam decisões e transformam setores.
 
 ## 🤖 Tecnologias Utilizadas
 Utilizei o **ChatGPT**, para auxílio na composição da narrativa do podcast e a plataforma **Descript**, para composição do podcast.
